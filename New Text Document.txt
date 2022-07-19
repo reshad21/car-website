@@ -1,0 +1,41 @@
+https://l.facebook.com/l.php?u=https%3A%2F%2Fpin.it%2F2jhoWhg%3Ffbclid%3DIwAR2i-PRsv0VosPlSux8_oxQNtPQv_WYKWWPyYy87WNia2w5Dtu0t2CzHoQ0&h=AT3wx2EehfXTPtJq3w4EM_XW9KVKlCpWaQaoTOkBC4i7wc0eHDMDG9DylKll5f1WrxW6XOyEt8op3528RPxI10UXS34VQYoqpmo0-yYf3o7GrLE_BMrD8AII4U3IuKMdvntO5g
+
+
+icon site:
+https://icons8.com/icons/set/hamburger-menu
+
+The website will be dark luxury with
+1 menu like in limousine and slider parallax
+2 section with icons why choose us
+3 cars we have to rent with all details and flaticons
+4 section about us with icons nice one
+5 call to action rent a car
+6 form to contact
+The end : Footer
+
+
+
+
+
+
+@media (max-width: 1440px) {
+    .container,
+    .container-lg,
+    .container-md,
+    .container-sm,
+    .container-xl,
+    .container-xxl {
+        max-width: 1200px;
+    }
+}
+
+@media (max-width: 1199px) {}
+
+@media (max-width: 991px) {}
+
+@media (max-width: 767px) {
+working}
+
+@media (max-width: 576px) {}
+
+@media (max-width: 445px) {}
